@@ -1,7 +1,12 @@
+import Formulario from "./componentes/Formulario/Formulario";
+import Navbar from "./componentes/Navbar/Navbar";
 
 function App() {
-  return (
-    <h1>Hola</h1>
+  return (<>
+  <Navbar/>
+  <Formulario/>
+      <h1>Hola</h1>
+  </>
   );
 }
 
