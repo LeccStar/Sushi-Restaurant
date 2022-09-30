@@ -1,0 +1,8 @@
+.CardCss{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2em;
+}
+.CardCss img{
+    height: 200px;
+}

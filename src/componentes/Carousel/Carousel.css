@@ -1,0 +1,10 @@
+img{
+    height: 500px;
+    object-fit: cover;
+    object-position: center center;
+}
+@media (max-width: 768px) {
+    img{
+        height: 300px;
+    }
+}
