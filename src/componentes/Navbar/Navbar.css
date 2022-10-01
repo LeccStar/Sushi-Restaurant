@@ -1,26 +1,28 @@
-:root{
+:root {
     --darkorange: darkorange;
     --darkgreen: #004b00;
 }
 
-.navbar{
+.navbar {
     background-color: #004b00;
     --bs-navbar-color: var(--darkorange);
     --bs-navbar-hover-color: rgb(255, 183, 96);
-    --bs-navbar-disabled-color:var(--darkorange);
+    --bs-navbar-disabled-color: var(--darkorange);
     --bs-navbar-active-color: var(--darkorange);
-    --bs-navbar-brand-color:var(--darkorange);
-    --bs-navbar-brand-hover-color:rgb(255, 183, 96);
-    --bs-navbar-toggler-border-color:var(--darkorange);
-    --bs-navbar-toggler-focus-width:0.1rem;
+    --bs-navbar-brand-color: var(--darkorange);
+    --bs-navbar-brand-hover-color: rgb(255, 183, 96);
+    --bs-navbar-toggler-border-color: var(--darkorange);
+    --bs-navbar-toggler-focus-width: 0.1rem;
     --bs-navbar-toggler-icon-bg: url("./Navbarimg/455453.png");
 }
-.navbar a{
+
+.navbar a {
     font-size: 1.2em;
 }
+
 @media (max-width: 768px) {
 
-    .navbar a{
+    .navbar a {
         font-size: 1em;
     }
 }

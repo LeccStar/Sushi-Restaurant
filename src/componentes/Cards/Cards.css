@@ -1,28 +1,30 @@
-.CardCss{
+.CardCss {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 2em;
 }
 
-.card{
+.card {
     margin: 1rem;
-    --bs-card-color:var(--darkorange);
-    --bs-card-border-color:var(--darkgreen)
-
+    --bs-card-color: var(--darkorange);
+    --bs-card-border-color: var(--darkgreen)
 }
 
 @media (max-width: 768px) {
-   .CardCss .card {
+    .CardCss .card {
         width: 9rem !important;
     }
-   .CardCss .card-body{
+
+    .CardCss .card-body {
         padding: .5rem;
     }
-   .CardCss .card-text{
+
+    .CardCss .card-text {
         font-size: .8em;
     }
-   .CardCss .card h5{
+
+    .CardCss .card h5 {
         font-size: 1rem;
     }
 }
