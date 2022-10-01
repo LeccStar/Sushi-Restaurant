@@ -7,8 +7,10 @@
 
 .card{
     margin: 1rem;
-}
+    --bs-card-color:var(--darkorange);
+    --bs-card-border-color:var(--darkgreen)
 
+}
 
 @media (max-width: 768px) {
    .CardCss .card {

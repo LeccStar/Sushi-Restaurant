@@ -1,3 +1,7 @@
+:root{
+    --lightgreen: rgb(234, 255, 234);
+}
+
 body{
     background-color: rgb(234, 255, 234);
 }

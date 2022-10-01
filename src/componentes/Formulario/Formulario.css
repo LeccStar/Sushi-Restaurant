@@ -4,3 +4,30 @@
     justify-content: center;
     gap: 1em;
 }
+.card{
+    --bs-card-color:var(--darkorange);
+    --bs-card-border-color:var(--darkgreen)
+}
+
+@media (max-width:768px) {
+    .row{
+        flex-wrap: nowrap;
+    }
+    .form-control{
+        font-size: .5em;
+        line-height: .5em;
+        padding: .5em .5em;
+    }
+    .form-select{
+        font-size: .5em;
+        line-height: 1em;
+        padding: .5em .5em;
+
+    }
+    .btn{
+        --bs-btn-font-size: .5em;
+        --bs-btn-line-height: .5em;
+        --bs-btn-padding-x: .7em;
+        --bs-btn-padding-y: .7em
+    }
+}
