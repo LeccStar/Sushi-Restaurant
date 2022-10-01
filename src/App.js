@@ -14,11 +14,7 @@ function App() {
     <Carousel/>
   </div>
     <Cards/>
-    <div className="FormContainer">
-      <FormInfo/>
-    <Formulario/>
-    </div>
-  <TablaReservaciones/>
+    <FormInfo/>
   </>
   );
 }

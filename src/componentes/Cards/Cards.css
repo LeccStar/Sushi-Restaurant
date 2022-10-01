@@ -11,16 +11,16 @@
 
 
 @media (max-width: 768px) {
-    .card {
+   .CardCss .card {
         width: 9rem !important;
     }
-    .card-body{
+   .CardCss .card-body{
         padding: .5rem;
     }
-    .card-text{
+   .CardCss .card-text{
         font-size: .8em;
     }
-    .card h5{
+   .CardCss .card h5{
         font-size: 1rem;
     }
 }

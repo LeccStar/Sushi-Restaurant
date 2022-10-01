@@ -10,7 +10,9 @@ h2{
     color: darkorange;
     margin: 1rem 0 1rem 0;
 }
-.FormContainer{
-    display: flex;
-    justify-content: space-around;
+
+@media (max-width:768px) {
+    .FormContainer{
+        flex-direction: column;
+    }
 }
