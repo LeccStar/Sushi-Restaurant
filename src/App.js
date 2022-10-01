@@ -4,16 +4,20 @@ import Navbar from "./componentes/Navbar/Navbar";
 import TablaReservaciones from "./componentes/TablaReservaciones/TablaReservaciones";
 import "./App.css"
 import Cards from "./componentes/Cards/Cards";
+import FormInfo from "./componentes/FormInfo/FormInfo";
 
 function App() {
   return (<>
   <Navbar/>
-  <h1>Conoce nuestros especiales</h1>
+  <h2>¡Conoce nuestros especiales!</h2>
   <div className="CarouselContainer">
     <Carousel/>
   </div>
     <Cards/>
-  <Formulario/>
+    <div className="FormContainer">
+      <FormInfo/>
+    <Formulario/>
+    </div>
   <TablaReservaciones/>
   </>
   );

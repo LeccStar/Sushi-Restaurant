@@ -1,0 +1,28 @@
+:root{
+    --darkorange: darkorange;
+}
+
+.navbar{
+    background-color: #004b00;
+    --bs-navbar-color: var(--darkorange);
+    --bs-navbar-hover-color: rgb(255, 183, 96);
+    --bs-navbar-disabled-color:var(--darkorange);
+    --bs-navbar-active-color: var(--darkorange);
+    --bs-navbar-brand-color:var(--darkorange);
+    --bs-navbar-brand-hover-color:rgb(255, 183, 96);
+    --bs-navbar-toggler-border-color:var(--darkorange);
+    --bs-navbar-toggler-focus-width:0.1rem;
+    --bs-navbar-toggler-icon-bg: url("./Navbarimg/455453.png");
+    --bs-navbar-padding-y:1rem;
+}
+.navbar a{
+    font-size: 1.4em;
+}
+@media (max-width: 768px) {
+    .navbar{
+        --bs-navbar-padding-y:.5rem
+    }
+    .navbar a{
+        font-size: 1em;
+    }
+}

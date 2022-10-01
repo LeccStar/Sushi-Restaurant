@@ -1,8 +1,26 @@
 .CardCss{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 2em;
 }
-.CardCss img{
-    height: 200px;
+
+.card{
+    margin: 1rem;
+}
+
+
+@media (max-width: 768px) {
+    .card {
+        width: 9rem !important;
+    }
+    .card-body{
+        padding: .5rem;
+    }
+    .card-text{
+        font-size: .8em;
+    }
+    .card h5{
+        font-size: 1rem;
+    }
 }

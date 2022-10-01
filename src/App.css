@@ -1,9 +1,16 @@
-
+body{
+    background-color: rgb(234, 255, 234);
+}
 .CarouselContainer{
     margin: auto;
     width: 75vw;
 }
-h1{
+h2{
     text-align: center;
     color: darkorange;
+    margin: 1rem 0 1rem 0;
+}
+.FormContainer{
+    display: flex;
+    justify-content: space-around;
 }
