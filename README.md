@@ -1,4 +1,4 @@
-#Sushi Restaurant app!
+# Sushi Restaurant app!
 
 En este repositorio realicé una app que simula una página de Restaurante en donde puedes meter datos de contacto para generar una reservación.
 
