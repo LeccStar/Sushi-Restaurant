@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/https://github.com/LeccStar/Sushi-Restaurant/static/css/main.326d6258.css",
-    "main.js": "/https://github.com/LeccStar/Sushi-Restaurant/static/js/main.702da4df.js",
-    "static/media/2713978.png": "/https://github.com/LeccStar/Sushi-Restaurant/static/media/2713978.0e6cb7ee15f9894e50df.png",
-    "static/media/87390.png": "/https://github.com/LeccStar/Sushi-Restaurant/static/media/87390.b4ff9be06a8f84fada1b.png",
-    "static/media/733641.png": "/https://github.com/LeccStar/Sushi-Restaurant/static/media/733641.8f84e8ce77ed527f4465.png",
-    "static/media/733604.png": "/https://github.com/LeccStar/Sushi-Restaurant/static/media/733604.4452350deee52cbe0756.png",
-    "static/media/455453.png": "/https://github.com/LeccStar/Sushi-Restaurant/static/media/455453.9e37b8403566032f499e.png",
-    "static/media/733603.png": "/https://github.com/LeccStar/Sushi-Restaurant/static/media/733603.b293d5363351752caf25.png",
-    "index.html": "/https://github.com/LeccStar/Sushi-Restaurant/index.html",
-    "main.326d6258.css.map": "/https://github.com/LeccStar/Sushi-Restaurant/static/css/main.326d6258.css.map",
-    "main.702da4df.js.map": "/https://github.com/LeccStar/Sushi-Restaurant/static/js/main.702da4df.js.map"
+    "main.css": "//Sushi-Restaurant/static/css/main.aa7af6ca.css",
+    "main.js": "//Sushi-Restaurant/static/js/main.6b194098.js",
+    "static/media/2713978.png": "//Sushi-Restaurant/static/media/2713978.0e6cb7ee15f9894e50df.png",
+    "static/media/87390.png": "//Sushi-Restaurant/static/media/87390.b4ff9be06a8f84fada1b.png",
+    "static/media/733641.png": "//Sushi-Restaurant/static/media/733641.8f84e8ce77ed527f4465.png",
+    "static/media/733604.png": "//Sushi-Restaurant/static/media/733604.4452350deee52cbe0756.png",
+    "static/media/455453.png": "//Sushi-Restaurant/static/media/455453.9e37b8403566032f499e.png",
+    "static/media/733603.png": "//Sushi-Restaurant/static/media/733603.b293d5363351752caf25.png",
+    "index.html": "//Sushi-Restaurant/index.html",
+    "main.aa7af6ca.css.map": "//Sushi-Restaurant/static/css/main.aa7af6ca.css.map",
+    "main.6b194098.js.map": "//Sushi-Restaurant/static/js/main.6b194098.js.map"
   },
   "entrypoints": [
-    "static/css/main.326d6258.css",
-    "static/js/main.702da4df.js"
+    "static/css/main.aa7af6ca.css",
+    "static/js/main.6b194098.js"
   ]
 }
