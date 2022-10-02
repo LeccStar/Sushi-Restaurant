@@ -13,7 +13,9 @@
     --bs-navbar-brand-hover-color: rgb(255, 183, 96);
     --bs-navbar-toggler-border-color: var(--darkorange);
     --bs-navbar-toggler-focus-width: 0.1rem;
-    --bs-navbar-toggler-icon-bg: url("./Navbarimg/455453.png");
+}
+.navbar-toggler-icon{
+    background-image: url("./Navbarimg/Sushimenu.png");
 }
 
 .navbar a {
