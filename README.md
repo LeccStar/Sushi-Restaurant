@@ -1,3 +1,11 @@
+#Sushi Restaurant app!
+
+En este repositorio realicé una app que simula una página de Restaurante en donde puedes meter datos de contacto para generar una reservación.
+
+Los datos de contacto llenados son visibles a través de Firebase, en donde se van recopilando toda la información enviada.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
