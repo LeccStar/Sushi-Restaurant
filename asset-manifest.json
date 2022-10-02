@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Sushi-Restaurant/static/css/main.47efa61c.css",
+    "main.css": "/Sushi-Restaurant/static/css/main.09bf1398.css",
     "main.js": "/Sushi-Restaurant/static/js/main.d5bead44.js",
     "static/media/2713978.png": "/Sushi-Restaurant/static/media/2713978.0e6cb7ee15f9894e50df.png",
     "static/media/87390.png": "/Sushi-Restaurant/static/media/87390.b4ff9be06a8f84fada1b.png",
     "static/media/733641.png": "/Sushi-Restaurant/static/media/733641.8f84e8ce77ed527f4465.png",
     "static/media/733604.png": "/Sushi-Restaurant/static/media/733604.4452350deee52cbe0756.png",
-    "static/media/455453.png": "/Sushi-Restaurant/static/media/455453.9e37b8403566032f499e.png",
+    "static/media/Sushimenu.png": "/Sushi-Restaurant/static/media/Sushimenu.9e37b8403566032f499e.png",
     "static/media/733603.png": "/Sushi-Restaurant/static/media/733603.b293d5363351752caf25.png",
     "index.html": "/Sushi-Restaurant/index.html",
-    "main.47efa61c.css.map": "/Sushi-Restaurant/static/css/main.47efa61c.css.map",
+    "main.09bf1398.css.map": "/Sushi-Restaurant/static/css/main.09bf1398.css.map",
     "main.d5bead44.js.map": "/Sushi-Restaurant/static/js/main.d5bead44.js.map"
   },
   "entrypoints": [
-    "static/css/main.47efa61c.css",
+    "static/css/main.09bf1398.css",
     "static/js/main.d5bead44.js"
   ]
 }
